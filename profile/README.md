@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/tigerless-labs/.github/main/profile/logo.png" alt="Tigerless Labs" width="120" />
 
-  <h1>Tigerless Labs</h1>
+  <h3>Tigerless Labs</h3>
 
   <p>An open-source AI lab shipping tools, agents, and experiments across the AI development stack.</p>
 </div>
