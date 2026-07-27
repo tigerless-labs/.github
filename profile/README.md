@@ -3,7 +3,7 @@
 
   <h1>Tigerless Labs</h1>
 
-  <h3>Open source for building with AI.</h3>
+  <p>An open-source AI lab shipping tools, agents, and experiments across the AI development stack.</p>
 </div>
 
 ## Agent skills & infrastructure
