@@ -20,7 +20,7 @@ Reusable skills and harnesses that make coding agents sharper over time.
 See and control what your agents actually send — cost, context, and data boundaries.
 
 - **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->299<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
-- **[phi-context-boundary-report](https://github.com/tigerless-labs/phi-context-boundary-report)** — PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs.
+- **[phi-boundary-gate](https://github.com/tigerless-labs/phi-boundary-gate)** — PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs.
 
 ---
 
