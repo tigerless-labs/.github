@@ -6,29 +6,28 @@
   <p>An open-source AI lab shipping tools, agents, and experiments across the AI development stack.</p>
 </div>
 
-## Agent skills & infrastructure
+## Agent harness
 
-Reusable skills and harnesses that make coding agents sharper over time.
+Tools that change how your coding agent works — and show you what it is actually doing.
 
-- **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->665<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
-- **[design-harness](https://github.com/tigerless-labs/design-harness)** (<!--stars:design-harness-->113<!--/stars--> stars) — Feed your agent papers and half-formed ideas; it links them into a system design you can defend. An Agent Skill for Claude Code and any SKILL.md-compatible agent.
-
----
-
-## Observability & safety
-
-See and control what your agents actually send — cost, context, and data boundaries.
-
-- **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->299<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
-- **[phi-boundary-gate](https://github.com/tigerless-labs/phi-boundary-gate)** — PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs.
+- **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->801<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
+- **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->367<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
 
 ---
 
-## Growth
+## Agent skills
 
-Turn real engineering work into distribution, without the AI-slop.
+Skills that put the agent to work on everything around the code — design, research, distribution.
 
-- **[auto-gtm](https://github.com/tigerless-labs/auto-gtm)** (<!--stars:auto-gtm-->25<!--/stars--> stars) — A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads — drafts only, never posts for you.
+- **[design-harness](https://github.com/tigerless-labs/design-harness)** (<!--stars:design-harness-->182<!--/stars--> stars) — Feed your agent papers and half-formed ideas; it links them into a system design you can defend. An Agent Skill for Claude Code and any SKILL.md-compatible agent.
+- **[auto-gtm](https://github.com/tigerless-labs/auto-gtm)** (<!--stars:auto-gtm-->107<!--/stars--> stars) — A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads — drafts only, never posts for you.
+- **[paper-radar](https://github.com/tigerless-labs/paper-radar)** (<!--stars:paper-radar-->0<!--/stars--> stars) — Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on.
+
+---
+
+## Healthcare
+
+- **[phi-boundary-gate](https://github.com/tigerless-labs/phi-boundary-gate)** (<!--stars:phi-boundary-gate-->56<!--/stars--> stars) — PHI boundary reports for healthcare and insurance AI workflows — across prompts, RAG, tools, memory, and logs.
 
 ---
 
