@@ -21,7 +21,7 @@ Skills that put the agent to work on everything around the code — design, rese
 
 - **[design-harness](https://github.com/tigerless-labs/design-harness)** (<!--stars:design-harness-->182<!--/stars--> stars) — Feed your agent papers and half-formed ideas; it links them into a system design you can defend. An Agent Skill for Claude Code and any SKILL.md-compatible agent.
 - **[auto-gtm](https://github.com/tigerless-labs/auto-gtm)** (<!--stars:auto-gtm-->107<!--/stars--> stars) — A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads — drafts only, never posts for you.
-- **[paper-radar](https://github.com/tigerless-labs/paper-radar)** (<!--stars:paper-radar-->0<!--/stars--> stars) — Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on.
+- **[paper-radar](https://github.com/tigerless-labs/paper-radar)** (<!--stars:paper-radar-->1<!--/stars--> stars) — Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on.
 
 ---
 
