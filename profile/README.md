@@ -12,6 +12,7 @@ Tools that change how your coding agent works — and show you what it is actual
 
 - **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->1054<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
 - **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->481<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
+- **[pr-test-guard](https://github.com/tigerless-labs/pr-test-guard)** (<!--stars:pr-test-guard-->0<!--/stars--> stars) — Lightweight, rule-based checks for missing, weak, and uncovered tests in pull requests.
 
 ---
 
