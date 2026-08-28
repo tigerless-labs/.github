@@ -3,7 +3,7 @@
 
   <h3>Tigerless Labs</h3>
 
-  <p>An open-source AI lab shipping tools, agents, and experiments across the AI development stack.</p>
+  <p>An open AI research lab shipping tools, agents, and experiments across the AI development stack.</p>
 </div>
 
 ## Agent harness
