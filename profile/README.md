@@ -42,4 +42,4 @@ Skills that put the agent to work on everything around the code — design, rese
 
 More in the works — built in the open, shipped fast.
 
-Tigerless Labs is home to [tigerless.ai](https://tigerless.ai) and the AI lab of [Tigerless](https://www.tigerless.com) (`tigerless.com`).
+Tigerless Labs is the AI lab of [Tigerless](https://tigerless.ai), the company behind [Tigerless Health Insurance](https://www.tigerless.com).
