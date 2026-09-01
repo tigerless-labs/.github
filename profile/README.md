@@ -6,9 +6,9 @@
   <p>An open AI research lab shipping tools, agents, and experiments across the AI development stack.</p>
 
   <p>
-    <a href="https://www.tigerless.com">tigerless.com</a>
-    &nbsp;·&nbsp;
     <a href="https://tigerless.ai">tigerless.ai</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.tigerless.com">tigerless.com</a>
   </p>
 </div>
 
@@ -42,4 +42,4 @@ Skills that put the agent to work on everything around the code — design, rese
 
 More in the works — built in the open, shipped fast.
 
-Tigerless Labs is the AI lab of [Tigerless](https://www.tigerless.com) (`tigerless.com`), also home to [tigerless.ai](https://tigerless.ai).
+Tigerless Labs is home to [tigerless.ai](https://tigerless.ai) and the AI lab of [Tigerless](https://www.tigerless.com) (`tigerless.com`).
