@@ -18,6 +18,7 @@ Tools that change how your coding agent works — and show you what it is actual
 
 - **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->1427<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
 - **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->661<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
+- **[agent-memory](https://github.com/tigerless-labs/agent-memory)** (<!--stars:agent-memory-->612<!--/stars--> stars) — Local-first long-term memory for coding agents: markdown files are the single source of truth, the index is a rebuildable cache, and a sleep-time layer consolidates and forgets by value.
 
 ---
 
