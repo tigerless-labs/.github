@@ -18,7 +18,7 @@ Tools that change how your coding agent works — and show you what it is actual
 
 - **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->4.4k<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
 - **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->2.1k<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
-- **[agent-memory](https://github.com/tigerless-labs/agent-memory)** (<!--stars:agent-memory-->958<!--/stars--> stars) — Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read.
+- **[agent-memory](https://github.com/tigerless-labs/agent-memory)** (<!--stars:agent-memory-->962<!--/stars--> stars) — Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read.
 
 ---
 
@@ -26,8 +26,8 @@ Tools that change how your coding agent works — and show you what it is actual
 
 Skills that put the agent to work on everything around the code — design, research, distribution.
 
-- **[auto-gtm](https://github.com/tigerless-labs/auto-gtm)** (<!--stars:auto-gtm-->465<!--/stars--> stars) — A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads — drafts only, never posts for you.
-- **[seo-ops](https://github.com/tigerless-labs/seo-ops)** (<!--stars:seo-ops-->352<!--/stars--> stars) — Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex.
+- **[auto-gtm](https://github.com/tigerless-labs/auto-gtm)** (<!--stars:auto-gtm-->469<!--/stars--> stars) — A Claude Code / Codex plugin that drafts your X and Reddit posts from your PRs and the day's hot threads — drafts only, never posts for you.
+- **[seo-ops](https://github.com/tigerless-labs/seo-ops)** (<!--stars:seo-ops-->351<!--/stars--> stars) — Give it a URL, get a crawler's-eye pass/fail report on the site's SEO foundation — 26 structural checks, zero LLM, deterministic. An Agent Skill and plugin for Claude Code and Codex.
 - **[design-harness](https://github.com/tigerless-labs/design-harness)** (<!--stars:design-harness-->223<!--/stars--> stars) — Feed your agent papers and half-formed ideas; it links them into a system design you can defend. An Agent Skill for Claude Code and any SKILL.md-compatible agent.
 - **[paper-radar](https://github.com/tigerless-labs/paper-radar)** (<!--stars:paper-radar-->204<!--/stars--> stars) — Finds the AI papers 28 labs put on arXiv over any date range, and separates the ones a company led from the ones it only appears on.
 - **[influencer-discovery](https://github.com/tigerless-labs/influencer-discovery)** (<!--stars:influencer-discovery-->208<!--/stars--> stars) — Finds creators who bring their own audience — followers, readers, subscribers — across 15 channels, and appends their public contact info to a Google Sheet. An Agent Skill for Claude Code.
