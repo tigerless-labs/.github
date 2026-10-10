@@ -16,7 +16,7 @@
 
 Tools that change how your coding agent works — and show you what it is actually doing.
 
-- **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->10.8k<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
+- **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->10.9k<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
 - **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->4.7k<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
 - **[agent-memory](https://github.com/tigerless-labs/agent-memory)** (<!--stars:agent-memory-->3.4k<!--/stars--> stars) — Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read.
 
