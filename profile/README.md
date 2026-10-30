@@ -3,7 +3,7 @@
 
   <h3>Tigerless Labs</h3>
 
-  <p>An open AI research lab shipping tools, agents, and experiments across the AI development stack.</p>
+  <p>An open AI lab researching the architecture of next-generation agents.</p>
 
   <p>
     <a href="https://tigerless.ai">tigerless.ai</a>
@@ -16,7 +16,7 @@
 
 Tools that change how your coding agent works — and show you what it is actually doing.
 
-- **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->10.6k<!--/stars--> stars) — A self-learning skill layer for Claude Code: distills skills from your real sessions, updates them as you work, and prunes the ones that go unused.
+- **[autoharness](https://github.com/tigerless-labs/autoharness)** (<!--stars:autoharness-->10.6k<!--/stars--> stars) — The self-learning layer next-gen agents will ship with, learning skills from real work.
 - **[cost-xray](https://github.com/tigerless-labs/cost-xray)** (<!--stars:cost-xray-->5.9k<!--/stars--> stars) — See what Claude Code and Codex actually send to the API — and what each part costs.
 - **[agent-memory](https://github.com/tigerless-labs/agent-memory)** (<!--stars:agent-memory-->4.4k<!--/stars--> stars) — Long-term memory that gives any agent a retrieval engine's ranking over a filesystem it can just read.
 
